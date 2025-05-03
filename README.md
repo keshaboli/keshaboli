@@ -1,74 +1,87 @@
-<!-- Profile Banner -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=200&section=header&text=Keshab%20Oli%20🚀&fontSize=45&fontAlignY=35&desc=Full-Stack%20Engineer%20|%20Architecting%20Clean%20Code%20at%20Scale&descAlign=50&descAlignY=60" />
+<!-- Keshab Oli - God-Level README -->
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=100&lines=👨‍💻+React%2C+Next.js%2C+DRF%2C+FastAPI%2C+Spring+Boot;🔁+Clean+Architecture+%7C+API+Design+%7C+Cloud+Ready;🧠+Engineer%2C+Problem+Solver%2C+Builder" />
-</p>
-
-<!-- Quick Links -->
-<p align="center">
-  <a href="https://keshaboli.com.np"><img src="https://img.shields.io/badge/🌐%20Website-keshaboli.com.np-black?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="mailto:hello@keshaboli.com.np"><img src="https://img.shields.io/badge/📩%20Email-hello@keshaboli.com.np-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/keshaboli"><img src="https://img.shields.io/badge/🔗%20LinkedIn-Keshab%20Oli-blue?style=for-the-badge&logo=linkedin" /></a>
-</p>
-
----
-
-## 🧠 Engineering Philosophy
-
-> “Code isn’t craft — it’s infrastructure.”  
-> I engineer modular, scalable, secure systems with a focus on clean code, API integrity, and modern DevOps.
-
----
-
-## 🚀 Core Stack
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Keshab+Oli+%F0%9F%9A%80;Full-Stack+Engineer+%7C+React+%7C+DRF+%7C+Next.js+%7C+SpringBoot" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,django,fastapi,java,spring,docker,postgres,mongodb,git,github,linux&perline=8" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack-Engineer-purple?style=flat&logo=github" />
 </p>
 
 ---
 
-## 🛠️ Current Focus
+## ⚡ About Me
 
-- 🧠 Architecting REST APIs & Microservices
-- 🧪 Implementing testable, production-grade systems
-- 🔐 Designing secure backends with FastAPI & Spring Boot
-- 🚀 Building & deploying React/Next.js apps with CI/CD
-- 🌐 Working with PostgreSQL, MongoDB, Redis & NGINX
+- 🧠 Passionate about scalable, high-performance backend & frontend architecture.
+- 🚀 Building real-world applications using **React, DRF, FastAPI, Spring Boot**.
+- 🧩 Clean code, REST APIs, DevOps, and microservice design enthusiast.
+- 🎯 On a mission to become the **world’s most powerful full-stack engineer**.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+
+### 🔧 Backend
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![DRF](https://img.shields.io/badge/-Django%20Rest-black?style=flat-square&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot)
+
+### 🧰 Tools
+![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshaboli&show_icons=true&theme=gruvbox&hide=issues&border_radius=12" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshaboli&layout=compact&theme=gruvbox&border_radius=12" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keshaboli&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshaboli&theme=tokyonight" height="180" />
 </p>
-
----
-
-## 🌐 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshaboli&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshaboli&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophy Showcase
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=keshaboli&theme=onedark&margin-w=10&row=1&column=6" />
+  <a href="https://keshaboli.com.np"><img src="https://img.shields.io/badge/Portfolio-%2345b1b0?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="mailto:hello@keshaboli.com.np"><img src="https://img.shields.io/badge/Email-%230078D4.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/keshab-oli-0a7441313/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/KrishBean"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/krishbean.py/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@krishbeanAI"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://tiktok.com/@KrishBean"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 </p>
 
 ---
 
-## 📍 Location & Contact
+## 🧠 Quote of the Day
 
-```yaml
-Location: Kathmandu, Nepal
-Phone:    +977 9858091405
-Email:    hello@keshaboli.com.np
-Website:  https://keshaboli.com.np
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+---
+
+> 🔥 _"Built with passion. Shipped with confidence. Maintained with pride."_  
