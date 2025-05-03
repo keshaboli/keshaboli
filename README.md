@@ -1,65 +1,66 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&pause=1000&color=00F0FF&center=true&width=435&lines=Hi%2C+I'm+Keshab+Oli;Full-Stack+Developer;React+%7C+Next.js+%7C+DRF+%7C+FastAPI+%7C+Spring+Boot" alt="Typing SVG" />
-</h1>
+# 👨‍💻 Keshab Oli - Software Engineer | Full-Stack Developer
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20with-Keshab%20Oli-blueviolet?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Full--Stack-Engineer-informational?style=for-the-badge&logo=react" />
-</p>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-KeshabOli-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshaboli)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-KeshabOli-black?logo=github&logoColor=white)](https://github.com/KeshabOli)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-KeshabOli-blue?logo=twitter&logoColor=white)](https://twitter.com/KeshabOli)
 
-<p align="center">
-  <img src="https://github.com/keshaboli/keshaboli/blob/main/assets/KeshabProfilePic.jpg?raw=true" alt="Keshab's Profile" width="200" height="200" style="border-radius: 50%; border: 4px solid #00ffff"/>
-</p>
+### Hi there 👋
+
+Welcome to my GitHub profile! I’m **Keshab Oli**, a passionate **Full-Stack Developer** and **Software Engineer** with a focus on building scalable web applications and APIs. I enjoy working with cutting-edge technologies and am constantly learning to stay ahead in the ever-evolving tech landscape.
+
+## 🌟 About Me
+- **Specializations**: Django, React, Next.js, FastAPI, Spring Boot, MERN Stack
+- **Currently Learning**: Data Structures & Algorithms, Machine Learning, Advanced DevOps
+- **Aspirations**: To become a **world-class full-stack developer** with deep expertise in scalable and secure software systems.
+
+## 🛠️ Technologies & Tools
+### Front-End:
+- React.js, Next.js
+- Tailwind CSS, Sass
+- Redux, Context API
+
+### Back-End:
+- Django, Django Rest Framework (DRF)
+- FastAPI, Spring Boot
+- Node.js, Express.js
+
+### Databases:
+- PostgreSQL, MongoDB
+- Firebase, MySQL
+
+### DevOps & CI/CD:
+- Docker, Kubernetes
+- GitHub Actions, Jenkins
+
+### Other Tools:
+- Git, GitHub, Bitbucket
+- Visual Studio Code, IntelliJ IDEA
+- Jira, Trello
+
+## 🚀 Projects
+### [School Management Software](https://github.com/KeshabOli/School-Management-Software)
+A **complete school management software system** built using **Django** (backend) and **React** (frontend). Features include student management, attendance tracking, and grade reporting.
+
+### [Task Tracker App](https://github.com/KeshabOli/Task-Tracker-App)
+A **task management application** built using **React** and **Node.js** with a REST API. Includes authentication, task categorization, and deadline tracking.
+
+### [E-Commerce Website](https://github.com/KeshabOli/E-Commerce-Website)
+A fully functional **e-commerce website** developed using **React** and **Django**. It includes user registration, product listing, shopping cart, and checkout systems.
+
+## 📈 GitHub Stats
+
+![Keshab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeshabOli&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+
+## 💡 Fun Facts
+- I love **solving complex problems** using data structures and algorithms.
+- I enjoy **playing football** and keep up with **Nepal’s women’s football team**.
+- Aiming to become a **top-tier software engineer** at companies like **Google** or **Microsoft**.
+
+## 📫 How to Reach Me
+- **Email**: keshab.oli@example.com
+- **LinkedIn**: [Keshab Oli](https://www.linkedin.com/in/keshaboli)
+- **Twitter**: [@KeshabOli](https://twitter.com/KeshabOli)
 
 ---
 
-
-
-```yaml
-name: Keshab Oli
-role: Full-Stack Developer
-tech: [React, Next.js, Django REST, FastAPI, Spring Boot]
-focus: Building performant, secure & scalable web apps
-passion: Software architecture, Open Source, AI integration
-location: Kathmandu, Nepal
-email: hello@keshaboli.com.np
-website: https://keshaboli.com.np
-🚀 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,django,fastapi,spring,java,python,figma,git,linux,postman,mysql,mongodb&theme=dark" /> </p>
-🧑‍💻 Projects & Contributions
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=keshaboli&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshaboli&theme=tokyonight&hide_border=true" height="180"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshaboli&theme=tokyo-night&bg_color=0D1117&hide_border=true" /> </p>
-🌐 Connect With Me
-<p align="center"> <a href="https://keshaboli.com.np" target="_blank"><img src="https://img.shields.io/badge/Website-00bcd4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a> <a href="https://www.linkedin.com/in/keshab-oli-0a7441313/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://x.com/KrishBean" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a> <a href="https://www.instagram.com/krishbean.py/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="https://www.youtube.com/@krishbeanAI" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a> <a href="https://tiktok.com/@KrishBean" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a> </p>
-🧠 Quotes That Inspire Me
-"Code is like humor. When you have to explain it, it’s bad." – Cory House
-"Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
-
-🔥 Let's Build Something Amazing
-I believe that great software has the power to change the world. If you're looking for someone who is always learning, growing, and ready to tackle challenges with innovative solutions, let's connect!
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=keshaboli&label=PROFILE+VIEWS&style=flat-square&color=brightgreen" alt="profile views"/> </p>
-💻 Made with ❤️ by Keshab Oli
-markdown
-Copy
-Edit
-
-### Key Features:
-- **Animation**: The `Typing SVG` animation creates an engaging introduction.
-- **Badges**: Colorful badges for technologies and social media for an eye-catching experience.
-- **GitHub Stats**: Display of detailed GitHub stats including contributions and streaks.
-- **Social Media Links**: Easily clickable icons to your personal/social media profiles.
-- **Tech Stack**: Showcase of the tech stack you’re proficient in with icons for clarity.
-- **Personal Branding**: A personal quote section to enhance branding and connection.
-
-### How to Use:
-1. **Copy the Code**: Paste this into your `README.md` file.
-2. **Replace URLs**: Change links to match your profiles, websites, and media.
-3. **Customization**: Add or modify images as needed, and use tools like `skillicons.dev` to tweak tech icons.
-
-This setup will make your GitHub profile look top-tier, with **professional animations**, **dynamic data**, and **an elite level of design** that grabs attention.
-
-
-
-
-
-
+✨ **Let's connect and build something amazing together!**
