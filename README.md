@@ -1,6 +1,8 @@
 <!-- README.md -->
 
-<h1 align="center">💻 Keshab Oli | Full-Stack Developer | Software Engineer 🚀</h1>
+<h1 align="center">
+  💻 Keshab Oli | Full-Stack Developer | Software Engineer 🚀
+</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/keshaboli">
@@ -18,27 +20,30 @@
 
 ## 🚀 About Me
 
-👋 I'm **Keshab Oli**, a **Full-Stack Developer** specializing in building scalable, maintainable, and elegant digital products. I bring deep experience in **backend engineering**, modern **frontend frameworks**, and **cloud-native development**. I believe in clean code, automation, and continuous learning.
+👋 I'm **Keshab Oli**, a passionate **Full-Stack Developer** dedicated to building scalable, maintainable, and elegant digital products. With expertise in both **backend engineering** and **frontend frameworks**, I strive to create seamless user experiences and efficient systems.
 
-- 🌱 **Currently Learning**: ML (TensorFlow, PyTorch), Kubernetes, DevOps, Serverless
-- 🎯 **Aspiration**: Architect cloud-native platforms, contribute to impactful AI projects
-- 🧭 **Goal**: Join world-class teams at **Google**, **Microsoft**, or cutting-edge startups
+- 🌱 **Currently Learning**: Machine Learning (TensorFlow, PyTorch), Kubernetes, DevOps, Serverless Architectures
+- 🎯 **Goal**: Architect cloud-native platforms and contribute to impactful AI projects
+- 🧭 **Aspiration**: Join world-class teams at **Google**, **Microsoft**, or innovative startups
 
 ---
 
 ## 🛠 My Toolbox
 
-### 🧩 **Frontend**
+### 🧩 Frontend
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,html,css" />
 </p>
 
-### 🔧 **Backend & APIs**
+### 🔧 Backend & APIs
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,fastapi,spring,java,python,nodejs" />
 </p>
 
-### 🛢️ **Databases & DevOps**
+### 🛢️ Databases & DevOps
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,kubernetes,aws,git,linux" />
 </p>
@@ -64,22 +69,25 @@
 ## 💼 Featured Projects
 
 ### 🛍️ [E-Commerce Website](https://github.com/KeshabOli/E-Commerce-Website)
-> Scalable platform built with **Django REST + React.js** — includes cart, checkout, payments, and user auth.
+
+A scalable platform built with **Django REST + React.js**, featuring cart, checkout, payments, and user authentication.
 
 ### 🏫 [School Management System](https://github.com/KeshabOli/School-Management-Software)
-> Comprehensive dashboard for school administration: **attendance, grades, and student management**.
+
+A comprehensive dashboard for school administration: **attendance, grades, and student management**.
 
 ### ✅ [Task Tracker](https://github.com/KeshabOli/Task-Tracker-App)
-> Lightweight **React + Node.js** app to manage and prioritize tasks with intuitive UI.
+
+A lightweight **React + Node.js** app to manage and prioritize tasks with an intuitive UI.
 
 ---
 
 ## 🌐 Learning Path
 
 - 🚀 **Cloud Computing**: Deploying serverless apps & scaling with Kubernetes
-- 📚 **ML + AI**: Building intelligent systems with TensorFlow & PyTorch
+- 📚 **Machine Learning**: Building intelligent systems with TensorFlow & PyTorch
 - ⚙️ **DevOps**: Automating with CI/CD, Docker, Jenkins & GitHub Actions
-- 🧠 **DSA Mastery**: Consistent problem-solving on LeetCode & HackerRank
+- 🧠 **Data Structures & Algorithms**: Consistent problem-solving on LeetCode & HackerRank
 
 ---
 
