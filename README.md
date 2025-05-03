@@ -129,3 +129,4 @@ Focus Areas:
   - Cloud-native development
   - AI-powered applications
   - System architecture
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00FFAB&center=true&width=435&lines=Let's+Build+the+Future+Together!;Open+Source+%7C+Clean+Code+%7C+Scale+Everything" /> </p> `
